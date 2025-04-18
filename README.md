@@ -4,6 +4,12 @@
 ### Project Outline (remove for final submission)
 https://docs.google.com/document/d/10tGYWmF3acl3c7UkKxXrGFnMLBJur5rSIVgdYXKUcN0/edit?usp=sharing
 
+
+## Team Members and Contributions **TODO**
+- **Anna Wang** 
+- **Jimmy Yang**
+- **Phillip Chen**
+
 ### Importing dataset
 To import the dataset, on the first run, uncomment and run the following code blocks in the notebook. You may be prompted to log into your Hugging Face account using a read token:
 ```
